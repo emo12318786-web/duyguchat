@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DuyguChat</string>
+    <string name="btn_speak">Konuş</string>
+    <string name="btn_stop">Durdur</string>
+    <string name="status_ready">Hazır</string>
+    <string name="status_listening">Dinliyorum...</string>
+    <string name="status_thinking">Düşünüyorum...</string>
+    <string name="status_error">Hata</string>
+</resources>
